@@ -1,5 +1,5 @@
 # FLIKK
-open source platformer game developed by a genderfluid dumbass
+open source platformer game developed by a dumbass
 
 ## /// DEVELOPER'S STATEMENT ///
 
@@ -30,10 +30,10 @@ The game will undergo a takedown request from Steam on the same day.
 
 I would also like to formally announce my retirement from game development. Without going into detail or making this too boring, I want to say a huge thanks to every one of you, for making this possible. This just isn't my thing anymore, and it's for the better.
 
-If you want to follow along with my musical endeavours, make sure to follow @davidellabrain on Instagram. 
+If you want to follow along with my musical endeavours, make sure to follow @skyewhenever on Instagram. 
 
 I appreciate everything you guys have given me.
 
 Thx4evrythn,
 
-David-Ella Brain
+skye whenever
